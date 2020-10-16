@@ -1,10 +1,10 @@
 {
 	"files.exclude": {
-		"C:/UnrealTutorial/BullCowGame-starter-kit/.vs": true,
-		"C:/UnrealTutorial/BullCowGame-starter-kit/.vscode": true,
-		"C:/UnrealTutorial/BullCowGame-starter-kit/BulsAndCows": true,
-		"C:/UnrealTutorial/BullCowGame-starter-kit/Content": true,
-		"C:/UnrealTutorial/BullCowGame-starter-kit/Intermediate": true,
-		"C:/UnrealTutorial/BullCowGame-starter-kit/Saved": true
+		"C:/UnrealTutorial/BullCowGame-starter-kit/BulsAndCows/.git": true,
+		"C:/UnrealTutorial/BullCowGame-starter-kit/BulsAndCows/.vs": true,
+		"C:/UnrealTutorial/BullCowGame-starter-kit/BulsAndCows/.vscode": true,
+		"C:/UnrealTutorial/BullCowGame-starter-kit/BulsAndCows/Content": true,
+		"C:/UnrealTutorial/BullCowGame-starter-kit/BulsAndCows/Intermediate": true,
+		"C:/UnrealTutorial/BullCowGame-starter-kit/BulsAndCows/Saved": true
 	}
 }
